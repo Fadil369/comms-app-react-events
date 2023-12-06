@@ -22,7 +22,7 @@
     "color": "4.2.3",
     "focus-trap-react": "^10.1.1",
     "prop-types": "^15.8.1",
-    "pubnub": "^7.2.2",
+    "pubnub": "^7.4.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-intl": "^5.24.8",
