@@ -17,7 +17,7 @@
     "@emotion/react": "^11.9.0",
     "@vitejs/plugin-react": "^1.0.7",
     "@voxeet/voxeet-web-sdk": "^3.9.0",
-    "axios": "^0.26.1",
+    "axios": "^0.28.0",
     "classnames": "^2.3.1",
     "color": "4.2.3",
     "focus-trap-react": "^10.1.1",
