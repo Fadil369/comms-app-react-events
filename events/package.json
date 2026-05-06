@@ -17,7 +17,7 @@
     "@emotion/react": "^11.9.0",
     "@vitejs/plugin-react": "^1.0.7",
     "@voxeet/voxeet-web-sdk": "^3.9.0",
-    "axios": "^0.26.1",
+    "axios": "^1.16.0",
     "classnames": "^2.3.1",
     "color": "4.2.3",
     "focus-trap-react": "^10.1.1",
@@ -27,8 +27,8 @@
     "react-dom": "^18.0.0",
     "react-intl": "^5.24.8",
     "react-router-dom": "6",
-    "vite": "^4.3.9",
-    "vite-plugin-static-copy": "^0.9.0",
+    "vite": "^8.0.10",
+    "vite-plugin-static-copy": "^4.1.0",
     "vite-plugin-svgr-component": "^1.0.0"
   },
   "devDependencies": {
